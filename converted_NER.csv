@@ -1,0 +1,803 @@
+word,ner
+Pakistan,GPE
+New Zealand,GPE
+Karachi,LOC
+February 19,DATE
+1998,DATE
+2017,DATE
+Australia,GPE
+India,GPE
+England,GPE
+eight-year,CARDINAL
+twice,CARDINAL
+ICC,ORG
+Champions Trophy,EVENT
+eight years,CARDINAL
+ICC,ORG
+Champions Trophy,EVENT
+Pakistan,GPE
+New Zealand,GPE
+Karachi,LOC
+February 19,DATE
+1998,DATE
+12,CARDINAL
+2009,DATE
+eight,CARDINAL
+2025,DATE
+Pakistan,GPE
+India,GPE
+Afghanistan,GPE
+Australia,GPE
+England,GPE
+New Zealand,GPE
+South Africa,GPE
+Bangladesh,GPE
+Sri Lanka,GPE
+West Indies,GPE
+South Africa,GPE
+second,CARDINAL
+ICC,ORG
+Champions Trophy 2025,EVENT
+Afghanistan,GPE
+Karachi,LOC
+Friday,DATE
+Proteas,GPE
+1998,DATE
+West Indies,GPE
+Temba Bavuma,PER
+Tony de Zorzi,PER
+Marco Jansen,PER
+Heinrich Klaasen,PER
+Keshav Maharaj,PER
+Aiden Markram,PER
+David Miller,PER
+Wiaan Mulder,PER
+Lungi Ngidi,PER
+Kagiso Rabada,PER
+Ryan Rickelton,PER
+Tabraiz Shamsi,PER
+Tristan Stubbs,PER
+Rassie van der Dussen,PER
+Corbin Bosch,PER
+Bangladesh,GPE
+Champions Trophy 2025,EVENT
+ICC,ORG
+India,GPE
+Dubai,LOC
+Thursday,DATE
+Bangladesh,GPE
+2017,DATE
+India,GPE
+Nazmul Hossain Shanto,PER
+Soumya Sarkar,PER
+Tanzid Hasan,PER
+Tawhid Hridoy,PER
+Mushfiqur Rahim,PER
+Mahmud Ullah,PER
+Jaker Ali Anik,PER
+Mehidy Hasan Miraz,PER
+Rishad Hossain,PER
+Taskin Ahmed,PER
+Mustafizur Rahman,PER
+Parvez Hossain Emon,PER
+Nasum Ahmed,PER
+Tanzim Hasan Sakib,PER
+Nahid Rana,PER
+Pakistan,GPE
+Champions Trophy,EVENT
+ICC,ORG
+Wednesday,DATE
+New Zealand,GPE
+Karachi,LOC
+2017,DATE
+Sarfaraz Ahmed,PER
+India,GPE
+Mohammad Rizwan,PER
+ICC,ORG
+Mohammad Rizwan,PER
+Babar Azam,PER
+Fakhar Zaman,PER
+Kamran Ghulam,PER
+Saud Shakeel,PER
+Tayyab Tahir,PER
+Faheem Ashraf,PER
+Khushdil Shah,PER
+Salman Ali Agha,PER
+Usman Khan,PER
+Abrar Ahmed,PER
+Haris Rauf,PER
+Mohammad Hasnain,PER
+Naseem Shah,PER
+Shaheen Shah Afridi,PER
+England,GPE
+ICC,ORG
+Champions Trophy,EVENT
+2025,DATE
+Australia,GPE
+Karachi,LOC
+February 26,DATE
+The Three Lions,GPE
+runner-up,ORDINAL
+twice,CARDINAL
+2013,DATE
+2004,DATE
+England,LOC
+2017,DATE
+2009,DATE
+Jos Buttler,PER
+Jofra Archer,PER
+Gus Atkinson,PER
+Tom Banton,PER
+Harry Brook,PER
+"Brydon Carse,",PER
+Ben Duckett,PER
+Jamie Overton,PER
+Jamie Smith,PER
+Liam Livingstone,PER
+Adil Rashid,PER
+Joe Root,PER
+Saqib Mahmood,PER
+Phil Salt,PER
+Mark Wood,PER
+Mitchell Santner,PER
+Michael Bracewell,PER
+Mark Chapman,PER
+Devon Conway,PER
+Lockie Ferguson,PER
+Matt Henry,PER
+Tom Latham,PER
+Daryl Mitchell,PER
+Will ORourke,PER
+Glenn Phillips,PER
+Rachin Ravindra,PER
+Nathan Smith,PER
+Kane Williamson,PER
+Will Young,PER
+Jacob Duffy,PER
+New Zealand,GPE
+second,CARDINAL
+ICC,ORG
+Champions Trophy,EVENT
+ICC,ORG
+Knockout,EVENT
+runner-up,ORDINAL
+2009,DATE
+Australia,GPE
+The Black Caps,GPE
+two,CARDINAL
+Less than a week,DATE
+tri-series,EVENT
+Pakistan,GPE
+New Zealand,GPE
+ICC Champions Trophy 2025,EVENT
+Wednesday,DATE
+National Bank Stadium,LOC
+Karachi,LOC
+Kiwis,GPE
+week,DATE
+Wednesday,DATE
+Champions Trophy,EVENT
+Pakistan,GPE
+Mohammad Rizwan,PER
+ODI series,EVENT
+Australia,GPE
+South Africa,GPE
+Rizwan,PER
+India,GPE
+third,ORDINAL
+ICC Champions Trophy 2025,EVENT
+Bangladesh,GPE
+Dubai,LOC
+Thursday,DATE
+India,GPE
+2002,DATE
+Sri Lanka,GPE
+Pakistan,GPE
+2013,DATE
+2017,DATE
+Australia,GPE
+ICC Champions Trophy,EVENT
+Men in Blue,GPE
+Rohit Sharma,PER
+Shubman Gill,PER
+Virat Kohli,PER
+Shreyas Iyer,PER
+KL Rahul,PER
+Rishabh Pant,PER
+Hardik Pandya,PER
+Axar Patel,PER
+Washington Sundar,PER
+Kuldeep Yadav,PER
+Harshit Rana,PER
+Mohammed Shami,PER
+Arshdeep Singh,PER
+Ravindra Jadeja,PER
+Varun Chakaravarthy,PER
+2025,DATE
+ICC Champions Trophy,EVENT
+February 19,DATE
+Pakistan,GPE
+New Zealand,GPE
+Karachi,LOC
+tournament,EVENT
+eight,CARDINAL
+two,CARDINAL
+four,CARDINAL
+12,CARDINAL
+Pakistan,GPE
+India,GPE
+Australia,GPE
+South Africa,GPE
+New Zealand,GPE
+England,GPE
+Bangladesh,GPE
+Afghanistan,GPE
+2023 ODI World Cup,EVENT
+Afghanistan,GPE
+Sri Lanka,GPE
+2025 ICC Champions Trophy,EVENT
+February 19,DATE
+Pakistan,GPE
+New Zealand,GPE
+Karachi,LOC
+tournament,EVENT
+Pakistan,GPE
+UAE,GPE
+India,GPE
+The Champions Trophy,EVENT
+eight,CARDINAL
+two,CARDINAL
+four,CARDINAL
+12,CARDINAL
+February 20,DATE
+February 23,DATE
+March 2,DATE
+March 4,DATE
+5,DATE
+March 9,DATE
+Lahore,LOC
+Dubai,LOC
+India,GPE
+ICC Mens Champions Trophy 2025,EVENT
+Abdullah Siddiqui,PER
+Adnan Dhool,PER
+Asfandyar Asad,PER
+Atif Aslam,PER
+ICC,ORG
+Pakistan,LOC
+UAE,LOC
+Pakistans,GPE
+ICC Champions Trophy,EVENT
+2025,DATE
+Wednesday,DATE
+February 19,DATE
+February 14 to 17,DATE
+Pakistan Cricket Board (PCB),ORG
+February 14,DATE
+Shadab Khan,PER
+Pakistan,GPE
+Afghanistan,GPE
+Lahore,LOC
+17 February,DATE
+Karachi,LOC
+Dubai.,LOC
+Mohammad Hurraira,PER
+South Africa,GPE
+Karachi,LOC
+Mohammad Haris,PER
+Bangladesh,GPE
+New Zealand,GPE
+Dubai,LOC
+Afghanistan,GPE
+Karachi,LOC
+February 16,DATE
+2025 ICC Champions Trophy,EVENT
+February 19,DATE
+Pakistan,GPE
+New Zealand,GPE
+Karachi,LOC
+Eight,CARDINAL
+two,CARDINAL
+four,CARDINAL
+12,CARDINAL
+Sri Lankan,GPE
+Farveez Maharoof,PER
+Champions Trophy,EVENT
+6/14,CARDINAL
+West Indies,GPE
+2006,DATE
+Brabourne Stadium,LOC
+Mumbai,LOC
+80,CARDINAL
+Australia,GPE
+Josh Hazlewood,PER
+six,CARDINAL
+New Zealand,GPE
+2017,DATE
+Indian,GPE
+Champions Trophy,EVENT
+Ravindra Jadeja,PER
+5/36,CARDINAL
+West Indies ,GPE
+2013,DATE
+Varun Chakaravarthy,PER
+India,GPE
+Indian,GPE
+15,CARDINAL
+ICC Champions Trophy 2025,EVENT
+Yashasvi Jaiswal,PER
+Varun,PER
+ODI debut,EVENT
+England,GPE
+second,CARDINAL
+ongoing series,EVENT
+T20I series,EVENT
+14,CARDINAL
+ODI debut,EVENT
+Varun,PER
+English,GPE
+Phil Salt,PER
+54,CARDINAL
+10,CARDINAL
+33,CARDINAL
+Vijay Hazare Trophy 2024-25,EVENT
+18,CARDINAL
+Tamil Nadu,GPE
+12.16,CARDINAL
+eight,CARDINAL
+February 19,LOC
+Karachi,LOC
+Pakistan,GPE
+New Zealand,GPE
+Anrich Nortje,PER
+South Africa,GPE
+ICC Champions Trophy,EVENT
+Nortje,PER
+South Africa,GPE
+Monday,DATE
+48,CARDINAL
+Afghanistan,GPE
+Feb. 21,DATE
+England,GPE
+Australia,GPE
+Nortjes,PER
+Gerald Coetzee,PER
+18,CARDINAL
+Kwena Maphaka,PER
+Nortje,PER
+test match,EVENT
+March 2023,DATE
+September of that year,DATE
+one-day international,EVENT
+Twenty20 World Cup,EVENT
+South Africa,GPE
+India,GPE
+Allah Ghazanfar,PER
+Champions Trophy 2025,EVENT
+Afghanistan Cricket Board (ACB),ORG
+Wednesday,DATE
+Afghanistan,GPE
+AM Ghazanfar,PER
+ICC Champions Trophy,EVENT
+ACB,ORG
+18,CARDINAL
+Afghanistan,GPE
+Zimbabwe,GPE
+Mumbai Indians,GPE
+4.80,CARDINAL
+Ghazanfar,PER
+Indian Premier League,EVENT
+2025,DATE
+four months,DATE
+Nangyal Kharoti,PER
+Champions Trophy,EVENT
+ACB,ORG
+Mujeeb Ur Rahman,PER
+50-over format,EVENT
+Mitchell Marsh,PER
+ICC Mens Champions Trophy,EVENT
+73,CARDINAL
+Beau Webster,PER
+Marsh,PER
+SCG,LOC
+India,GPE
+seven,CARDINAL
+Border-Gavaskar Trophy,EVENT
+BBL,EVENT
+single,CARDINAL
+January 7,DATE
+three,CARDINAL
+Champions Trophy,EVENT
+Marsh,PER
+IPL,EVENT
+Lucknow Super Giants,GPE
+LSG,GPE
+3.4,CARDINAL
+mega auction,EVENT
+Mitchell Marsh,PER
+ICC Mens Champions Trophy,EVENT
+NSP,ORG
+February 12,DATE
+Mitchell Starc,PER
+Champions Trophy,EVENT
+Cricket Australia (CA),ORG
+ ICC tournament,EVENT
+Wednesday,DATE
+Starc,PER
+Pat Cummins,PER
+Josh Hazlewood,PER
+trio,CARDINAL
+February 19,DATE
+Pakistan,LOC
+Starc,PER
+four,CARDINAL
+Sri Lankas,GPE
+final Test,EVENT
+Galle,LOC
+CA,ORG
+Mitch,PER
+CA,ORG
+George Bailey,PER
+Spencer Johnson,PER
+Nathan Ellis,PER
+Sean Abbott,PER
+Ben Dwarshuis,PER
+Champions Trophy,EVENT
+Australia,GPE
+Champions Trophy,EVENT
+2009,DATE
+2006,DATE
+International Cricket Council (ICC),ORG
+December 19,DATE
+2025,DATE
+Champions Trophy,EVENT
+Pakistan,LOC
+February 19,DATE
+India,GPE
+ICC,ORG
+India,GPE
+Pakistan,GPE
+ICC Events,EVENT
+2024-2027,DATE
+2008,DATE
+India,GPE
+Pakistan,GPE
+16 years ago,DATE
+Pakistan,GPE
+India,GPE
+2023 ICC Mens Cricket World Cup,EVENT
+Pakistan Cricket Board (PCB),ORG
+Mohsin Naqvi,PER
+Afghanistan,GPE
+Australia,GPE
+Bangladesh,GPE
+England,GPE
+India,GPE
+New Zealand,GPE
+South Africa,GPE
+Pakistan,GPE
+Champions Trophy,EVENT
+eight,CARDINAL
+ICC Champions Trophy 2025,EVENT
+February 19,DATE
+four,CARDINAL
+Pakistan,LOC
+"Dubai, UAE",LOC
+Karachi,LOC
+Lahore,LOC
+Rawalpindi,LOC
+Pakistan,LOC
+India,GPE
+Dubai,LOC
+Pakistan Cricket Board (PCB),ORG
+three,CARDINAL
+January 28,DATE
+February 3,DATE
+Dubai,LOC
+Global Sports Travel,ORG
+Dubai International Cricket Stadium,LOC
+AED 250,CARDINAL
+"INR 6,000",CARDINAL
+"AED 500 (INR 12,000)",CARDINAL
+Pakistan,LOC
+"PKR 2,000 (INR 1,200)",CARDINAL
+"PKR 1,000 (INR 600)",CARDINAL
+Steve Smith,PER
+ean Abbott,PER
+Alex Carey,PER
+Ben Dwarshuis,PER
+Nathan Ellis,PER
+Jake Fraser-McGurk,PER
+Aaron Hardie,PER
+Travis Head,PER
+Josh Inglis,PER
+Spencer Johnson,PER
+Marnus Labuschagne,PER
+Glenn Maxwell,PER
+Tanveer Sangha,PER
+Matthew Short,PER
+Adam Zampa,PER
+Australian,GPE
+ICC Champions Trophy,EVENT
+third,CARDINAL
+England,GPE
+Lahore,LOC
+February 22,DATE
+Australia,GPE
+2006,DATE
+2009,DATE
+Pat Cummins,PER
+ODI World Cup,EVENT
+2023,DATE
+Steve Smith,PER
+Cummins,PER
+ODI World Cup,EVENT
+Australia,PER
+ICC Champions Trophy,EVENT
+two,CARDINAL
+2013,CARDINAL
+2017,CARDINAL
+2009,CARDINAL
+Australia,GPE
+New Zealand,GPE
+Centurion,LOC
+second,CARDINAL
+Pakistan,GPE
+ICC Champions Trophy,EVENT
+England,LOC
+2017,CARDINAL
+2025,DATE
+opening ceremony,EVENT
+tournament,LOC
+Lahore,LOC
+Sarfaraz Ahmed,PER
+Mohammad Hafeez,PER
+Wahab Riaz,PER
+Mohammad Amir,PER
+Imad Wasim,PER
+Junaid Khan,PER
+Azhar Ali,PER
+Haris Sohail,PER
+ceremony,EVENT
+Sunday,DATE
+2017,DATE
+Sarfaraz,PER
+Sarfaraz,PER
+Pakistan,GPE
+ICC,ORG
+Sarfaraz,PER
+2017,GPE
+India,GPE
+India,GPE
+Dubai,LOC
+UAE,LOC
+Champions Trophy 2025,EVENT
+International Cricket Council (ICC),ORG
+Sunday,DATE
+today,DATE
+February 20,DATE
+Bangladesh,GPE
+Indias,GPE
+Pakistan,GPE
+February 23,DATE
+New Zealand,GPE
+March 2,DATE
+ICC,ORG
+semi-final 1,EVENT
+Dubai International Cricket Stadium,LOC
+Tuesday,DATE
+March 4,DATE
+March 9,DATE
+Dubai,LOC
+UAE,GPE
+Champions Trophy 2025,EVENT
+February 20,DATE
+India,GPE
+Bangladesh,GPE
+Dubai International Stadium,LOC
+February 23,DATE
+India,GPE
+Pakistan,GPE
+Dubai International Stadium,LOC
+March 2 ,DATE
+India,GPE
+New Zealand,GPE
+Dubai International Stadium,LOC
+March 4,DATE
+Semifinal 1,EVENT
+Dubai International Stadium,LOC
+International Cricket Council (ICC),ORG
+Wednesday,DATE
+ICC Mens Champions Trophy 2025,EVENT
+Pakistan,LOC
+United Arab Emirates (UAE),LOC
+February 19 to March 9,DATE
+four,CARDINAL
+Karachi,LOC
+Lahore,LOC
+Rawalpindi,LOC
+Pakistan,LOC
+Dubai,LOC
+UAE,LOC
+12,CARDINAL
+six,CARDINAL
+ICC Champions Trophy,EVENT
+2017,DATE
+Richard Kettleborough,PER
+Chris Gaffaney,PER
+Kumar Dharmasena,PER
+Richard Illingworth,PER
+Paul Reiffel,PER
+Rod Tucker,PER
+Michael Gough,PER
+Adrian Holdstock,PER
+Ahsan Raza,PER
+Sharfuddoula Ibne Shahid,PER
+Alex Wharf,PER
+Joel Wilson,PER
+2023 ODI World Cup,EVENT
+Champions Trophy,EVENT
+India,GPE
+Pakistan,GPE
+India,LOC
+David Boon,PER
+Ranjan Madugalle,PER
+Andrew Pycroft,PER
+Boon,PER
+2017,DATE
+Champions Trophy final,EVENT
+Madugalle,PER
+2013,DATE
+final,EVENT
+Pycroft,PER
+2017,DATE
+Jacob Bethell,PER
+Champions Trophy,EVENT
+second,CARDINAL
+India,GPE
+one-day international,EVENT
+Bethell,PER
+21,CARDINAL
+51,CARDINAL
+last week,DATE
+Sunday,DATE
+India,GPE
+2-0,CARDINAL
+three,CARDINAL
+Cuttack,LOC
+50-over Champions Trophy,EVENT
+February 19,DATE
+Pakistan,LOC
+Dubai,LOC
+Bethell,PER
+Champions Trophy,EVENT
+Jos Buttler,PER
+Englands,GPE
+four,CARDINAL
+England,GPE
+Bethells,PER
+Somerset,GPE
+Tom Banton,PER
+Sunday,DATE
+Banton,PER
+26,CARDINAL
+India,LOC
+Monday,DATE
+England,GPE
+Ahmedabad,LOC
+Wednesday,DATE
+Banton,PER
+six,CARDINAL
+58,CARDINAL
+26.80,CARDINAL
+Englands,GPE
+February 22,DATE
+Australia,GPE
+Champions Trophy,EVENT
+World Cup,EVENT
+February 12,DATE
+Ravichandran Ashwin,PER
+India,GPE
+Shubman Gill,PER
+Champions Trophy,EVENT
+Shubman Gill,PER
+Ashwin,PER
+Sunday,DATE
+Test cricket,EVENT
+Gill,PER
+Axar Patel,PER
+Pant,PER
+Rahul,PER
+Shubman Gill,PER
+Virat Kohli,PER
+Jasprit Bumrah,PER
+Ashwin,PER
+2023 ODI World Cup,EVENT
+ICC,ORG
+February 19,DATE
+Pakistan,LOC
+the UAE,LOC
+Pat Cummins,PER
+Australia,GPE
+Champions Trophy,EVENT
+Andrew McDonald,PER
+Wednesday,DATE
+Cummins,PER
+India,GPE
+beginning of last month,DATE
+Test series,EVENT
+Sri Lanka,LOC
+second,CARDINAL
+Pat Cummins,PER
+McDonald,PER
+SEN,ORG
+Cummins,PER
+McDonald,PER
+Travis Head,PER
+Steve Smith,PER
+Champions Trophy,EVENT
+Steve,PER
+Smith,PER
+Head,PER
+Test match,EVENT
+Sri Lanka,GPE
+McDonald,PER
+McDonald,PER
+Josh Hazlewood,PER
+ODI tournament,EVENT
+Hazlewood,PER
+India tests,EVENT
+Sri Lanka tour,EVENT
+McDonald,PER
+Mitchell Marsh,PER
+Champions Trophy,EVENT
+Feb. 19,DATE
+Pakistan,LOC
+the United Arab Emirates,LOC
+Haris Rauf,PER
+Monday,DATE
+Pakistans,GPE
+Champions Trophy,EVENT
+New Zealand,GPE
+National Stadium,LOC
+Haris,PER
+Haris,PER
+Pakistans,GPE
+three-nation event,EVENT
+Akif Javed,PER
+New Zealand,GPE
+Haris,PER
+83,CARDINAL
+46,CARDINAL
+one-day internationals,EVENT
+110,CARDINAL
+T20 internationals,EVENT
+79,CARDINAL
+Haris,PER
+Khushdil Shah,PER
+Salman Agha,PER
+Kamran Ghulam,PER
+one,CARDINAL
+2025 ICC Champions Trophy,EVENT
+Pakistan,LOC
+19 February,DATE
+9 March 2025,DATE
+Tuesday,DATE
+January 28,DATE
+Champions Trophy,EVENT
+3 February,DATE
+TCS Express centres,LOC
+Pakistan,LOC
+India,GPE
+Dubai,LOC
+United Arab Emirates,LOC
+20 and 23 February and 2 March,DATE
+ICC Mens Champions Trophy Final,EVENT
+Sunday 9 March,DATE
+ICC Mens Champions Trophy 2025,EVENT
+Pakistan,LOC
+1996,DATE
+Anurag Dahiya,PER
+Champions Trophy,EVENT
+Champions Trophy,EVENT
+2017,DATE
